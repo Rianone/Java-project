@@ -1,8 +1,8 @@
-#Simple Java project
+# Simple Java project
 
 Consist in creating a table of students and managing thier informations.
 
-#How it functions
+# How it functions
 
 As said above, the program permits you to
 -Create an array of students
@@ -12,7 +12,7 @@ As said above, the program permits you to
        -A sorted view of the array(the sort is based on the students grades)
        -The student with the highiest mark
 
-#Required tools
+# Required tools
 
 To compile the project you need:
  -The java development kit (JDK)
